@@ -24,6 +24,23 @@ A simple Django project demonstrating cookie-based page visit counting.
 
 * **Database:**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="50"/>
+
+---
+
+## 🤝 Connect with Me
+
+Agar aapke paas koi sawal hai ya aap connect karna chahte hain, toh aap mujhe niche diye gaye platforms par reach out kar sakte hain:
+
+* **LinkedIn:**  
+  <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
+  </a>
+
+* **Gmail:**  
+  <a href="mailto:sajjadali.dev01@gmail.com">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="50" alt="Gmail"/>
+  </a>
+
 ---
 
 ## 💖 Support & Usage
