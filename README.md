@@ -11,7 +11,7 @@ A simple Django project demonstrating cookie-based page visit counting.
 ---
 
 <p align="center">
-  <img src="screenshots/counter-page.png" alt="Counter Page" width="600"/>
+  <img src="screenshots/counter-page.png" alt="Counter Page" width="600" style="border-radius: 12px; border: 1px solid #e1e4e8;"/>
 </p>
 
 ---
