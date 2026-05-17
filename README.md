@@ -29,8 +29,8 @@ A simple Django project demonstrating cookie-based page visit counting.
 
 ## 🤝 Connect with Me
 
-Agar aapke paas koi sawal hai ya aap connect karna chahte hain, toh aap mujhe niche diye gaye platforms par reach out kar sakte hain:
-If you have any questions or would like to connect, feel free to reach out to me on the platforms below:"
+Agar aapke paas koi sawal hai ya aap connect karna chahte hain, toh aap mujhe niche diye gaye platforms par reach out kar sakte hain: <br>
+<i>If you have any questions or would like to connect, feel free to reach out to me on the platforms below:"</i>
 
 * **LinkedIn:**  
   <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
