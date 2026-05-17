@@ -10,6 +10,12 @@ A simple Django project demonstrating cookie-based page visit counting.
   
 ---
 
+<p align="center">
+  <img src="screenshots/counter-page.png" alt="Counter Page" width="600"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 * **Backend:**  
