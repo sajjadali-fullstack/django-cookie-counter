@@ -1,4 +1,4 @@
-# Django Cookie Counter
+# 🍪 Django Cookie Counter
 
 A simple Django project demonstrating cookie-based page visit counting.
 
